@@ -1,4 +1,4 @@
-# autumn-async
+# autumn-synchronized
 
 Модуль [ОСени](https://github.com/autumn-library/autumn) для синхронизации исполнения методов желудей
 
